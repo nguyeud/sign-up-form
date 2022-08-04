@@ -95,6 +95,7 @@ form {
 }
 .form-rows {
 	display: flex;
+	margin-bottom: 10px;
 }
 label {
 	text-transform: uppercase;
